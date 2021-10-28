@@ -1,4 +1,4 @@
-## [DISCONTINUED IN THIS FORM!]PHPVibe Video CMS
+## [DISCONTINUED!]PHPVibe Video CMS
 # Free Video Sharing CMS 
 
 The modern choice of design inspired by Youtube and a social videos sharing module that may just cut it for your video portal
