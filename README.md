@@ -1,5 +1,5 @@
-## [DISCONTINUED!]PHPVibe Video CMS
-# Free Video Sharing CMS 
+## PHPVibe Video CMS
+# [DISCONTINUED!] Free Video Sharing CMS 
 
 The modern choice of design inspired by Youtube and a social videos sharing module that may just cut it for your video portal
 
