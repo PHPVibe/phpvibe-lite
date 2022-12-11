@@ -1,5 +1,5 @@
 ## PHPVibe Video CMS
-#Free Video Sharing CMS 
+# Free Video Sharing CMS 
 # USE THIS https://phpvibe.com/phpvibe/p1/ 
 # The version here is not the real PHPVibe, but PHPVibe Lite (Discontinued!)
 
